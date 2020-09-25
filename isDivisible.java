@@ -7,7 +7,7 @@
 */ 
 
 import java.util.Scanner;
-public class isDivisible{
+public class IsDivisible{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         
